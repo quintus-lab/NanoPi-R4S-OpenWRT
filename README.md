@@ -1,14 +1,15 @@
 ## OpenWrt Official styles Firmwares for NanoPi-R4S
 ### ⚠ WARNING: USE IT UNDER YOUR OWN RISK.
-## Last Building Status: [OpenWrt-R4S](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/workflows/OpenWrt-R4S-firmware/badge.svg)
+![R4S-OpenWrt-Without-Docker](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/workflows/OpenWrt-R4S-firmware/badge.svg)
 
 **Version**
 Openwrt Official  master source code 
-## Download: [Releases](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/releases) or [Actions](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/actions) \(Login Needed\)
+### Download: [Releases](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/releases) or [Actions](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/actions) \(Login Needed\)
 - - -
 ## Introduction
 - ### Usage
-1. Default login addr is [192.168.1.1](192.168.1.1), username: `root`  no password<br/>
+0. OpenWRT Official mainline source code + CTCGFW's & Lean's packages code <br/>
+1. Default login addr is [192.168.1.1](192.168.1.1), username: `root`  , no password<br/>
  Please setup the login password **as soon as possible** once you logined.
 2. Once you flashed the firmware into SD card, you may simply use "Upgrade" function<br/>
  in LuCI (no need to decompress the **.gz** archive) if you want to update it.
