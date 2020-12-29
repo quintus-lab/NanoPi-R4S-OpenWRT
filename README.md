@@ -2,7 +2,7 @@
 ### ⚠ WARNING: USE IT UNDER YOUR OWN RISK.
 ![R4S-OpenWrt-Without-Docker](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/workflows/OpenWrt-R4S-firmware/badge.svg)
 
-### Download: [Releases](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/releases) or [Actions](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/actions) \(Login Needed\)
+##### Download: [Releases](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/releases) or [Actions](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/actions) \(Login Needed\)
 - - -
 ## Introduction
 - ### Usage
