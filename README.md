@@ -1,41 +1,33 @@
-#### OpenWrt Official styles Firmares
-**⚠ WARNING: USE IT UNDER YOUR OWN RISK.**
+## OpenWrt Official styles Firmwares for NanoPi-R4S
+### ⚠ WARNING: USE IT UNDER YOUR OWN RISK.
+## Last Building Status: [OpenWrt-R4S](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/workflows/OpenWrt-R4S-firmware/badge.svg)
 
 **Version**
+Openwrt Official  master source code 
+## Download: [Releases](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/releases) or [Actions](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/actions) \(Login Needed\)
+- - -
+## Introduction
+- ### Usage
+1. Default login addr is [192.168.1.1](192.168.1.1), username: `root`  no password<br/>
+ Please setup the login password **as soon as possible** once you logined.
+2. Once you flashed the firmware into SD card, you may simply use "Upgrade" function<br/>
+ in LuCI (no need to decompress the **.gz** archive) if you want to update it.
+3. Support USB LTE Hilink Dongle. 
+4. Can keeping configurations in upgrade is **suggested**, it's totally unnecessary to drop them.
 
-Openwrt Official source code SNAPSHOP 19.07 
-CTCGFW source code for 18.06
+- ### Applications
+  AccessControl, ADbyby, CFDisk, DDNS, DiskMan, FRP, Gost, SpeedTest-CLI, SSRPlus, Socat, Stress-ng, Tmate, UPNP, Wake-On-LAN, WireGuard, ZeroTier etc.
+- - -
 
-**Usage**
+### Thanks to Bigwigs:
 
-dd on openwrt/linux
-```
-dd if=/tmp/upload/openwrt.img of=/dev/mmcblk0 conv=fsync
-```
-
-flash into SD card
-
-Upgrade in LuCI
-
-
-
-#### Screenshot
-![bootstrap](pic/bootstrap.png)
-![R2S NAT Throughput](pic/NAT_Throughput.jpg)
-
-
-### Thank you all
-
-- [QiuSimons](https://github.com/project-openwrt/R2S-OpenWrt)
+- [CN_SZTL]https://github.com/1715173329
+- [QiuSimons](https://github.com/QiuSimons)
 - [CTCGFW](https://github.com/project-openwrt/openwrt)
+- [AmadeusGhost](https://github.com/AmadeusGhost)
 - [Lean](https://github.com/coolsnowwolf/lede)
-- [Klever1988](https://github.com/klever1988/nanopi-openwrt)
-- [fanck0605](https://github.com/fanck0605/nanopi-r2s)
-- [P3TERX](https://github.com/P3TERX/Actions-OpenWrt)
-- [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
-#### License
-[MIT](https://github.com/quintus-lab/Openwrt-R2S/blob/master/LICENSE)
+### License
+[GNU General Public License v3.0](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/blob/master/LICENSE)
 
-
-🇹🇼
+🇹🇼🇨🇦🇺🇸🇭🇰
