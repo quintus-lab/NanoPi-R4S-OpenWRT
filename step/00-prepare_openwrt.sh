@@ -50,7 +50,7 @@ svn co https://github.com/project-openwrt/openwrt/trunk/package/kernel/cryptodev
 git clone https://github.com/BROBIRD/openwrt-r8168 package/new/r8168
 
 #dma patch
-wget -P target/linux/rockchip/patches-5.4 https://github.com/project-openwrt/openwrt/raw/master/target/linux/rockchip/patches-5.4/
+wget -P target/linux/rockchip/patches-5.4 https://github.com/project-openwrt/openwrt/raw/master/target/linux/rockchip/patches-5.4/911-kernel-dma-adjust-default-coherent_pool-to-2MiB.patch
 #overclock to 2.2g
 cp -f ../patches/991-rockchip-rk3399-overclock-to-2.2-1.8-GHz-for-NanoPi4.patch ./target/linux/rockchip/patches-5.4/
 
