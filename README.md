@@ -1,8 +1,8 @@
 # <font color=red> This page has been archived, R4S and R2S merged together. </font>
-# please visit  [OpenWRT-R2S-R4S](https://github.com/quintus-lab/OpenWRT-R2S-R4S)
+# Please visit  [OpenWRT-R2S-R4S](https://github.com/quintus-lab/OpenWRT-R2S-R4S)
 
 
-
+------------------
 ------------------
 
 ## OpenWrt NanoPi-R4S Firmware 
