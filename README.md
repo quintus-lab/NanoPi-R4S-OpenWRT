@@ -1,3 +1,6 @@
+# Merge to github site with R2S together
+[OpenWRT-R2S-R4S](https://github.com/quintus-lab/OpenWRT-R2S-R4S)
+
 ## OpenWrt NanoPi-R4S Firmware 
 #### ⚠ WARNING: USE IT UNDER YOUR OWN RISK. Non profit use only ⚠ 
 ![R4S-OpenWrt-Without-Docker](https://github.com/quintus-lab/NanoPi-R4S-OpenWRT/workflows/OpenWrt-R4S-firmware/badge.svg)
